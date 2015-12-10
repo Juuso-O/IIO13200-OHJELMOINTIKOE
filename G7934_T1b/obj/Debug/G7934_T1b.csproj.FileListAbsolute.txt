@@ -1,0 +1,14 @@
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\bin\Debug\G7934_T1b.exe.config
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\bin\Debug\G7934_T1b.exe
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\bin\Debug\G7934_T1b.pdb
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b.csprojResolveAssemblyReference.cache
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\MainWindow.g.cs
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\App.g.cs
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b_MarkupCompile.cache
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b_MarkupCompile.lref
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\MainWindow.baml
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b.g.resources
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b.Properties.Resources.resources
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b.csproj.GenerateResource.Cache
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b.exe
+Z:\Mac HDD\Koulu\Vuosi 3\dotNET\IIO13200-OHJELMOINTIKOE\G7934_T1b\obj\Debug\G7934_T1b.pdb
