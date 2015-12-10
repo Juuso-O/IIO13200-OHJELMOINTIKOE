@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div id="found" runat="server">
+        <asp:Button ID="btnAll" runat="server" Text="Kaikki" OnClick="btnAll_Click" />
         <asp:Button ID="btnVakkarit" runat="server" Text="Vakituiset" OnClick="btnVakkarit_Click" />
         <asp:Button ID="btnMaaraikaset" runat="server" Text="Määräaikaiset" OnClick="btnMaaraikaset_Click" />
         <asp:Button ID="btnElse" runat="server" Text="Muut" OnClick="btnElse_Click" />
